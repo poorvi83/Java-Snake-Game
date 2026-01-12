@@ -8,15 +8,15 @@ The snake moves around the board, eats food, grows in size, and the score increa
 The game ends when the snake collides with itself or a wall.
 
 🚀 Features
-Smooth snake movement
-Random food generation
-Score tracking system
-Collision detection
-Game-over screen
-Clean UI using Java Swing
-Simple and modular OOP structure
+Smooth snake movement | 
+Random food generation |
+Score tracking system |
+Collision detection |
+Game-over screen |
+Clean UI using Java Swing |
+Simple and modular OOP structure 
 
 🛠 Tech Stack
-Java
-Java Swing / AWT
+Java |
+Java Swing / AWT |
 Object-Oriented Programming
